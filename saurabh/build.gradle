@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.img.saurabh'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         minSdk 24
@@ -28,6 +28,7 @@ android {
         jvmTarget = '1.8'
     }
 }
+
 
 dependencies {
 
