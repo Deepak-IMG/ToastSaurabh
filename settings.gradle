@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Location Update App"
 include ':app'
-include ':saurabh'

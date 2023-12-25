@@ -8,5 +8,19 @@
     tools:context=".MainActivity">
 
 
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:layout_centerInParent="true"/>
+
+    <Button
+        android:layout_below="@id/startBtn"
+        android:id="@+id/stopBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:layout_centerInParent="true"/>
 
 </RelativeLayout>
